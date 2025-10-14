@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "1c89f0d6-a61e-48be-a5f7-f5d61bad3004",
+      "name": "Akshat joshi",
+      "todo": [
+        {
+          "title": "Buying new mercedes",
+          "time": "9:04:02 PM"
+        },
+        {
+          "title": "Buying new car",
+          "time": "9:04:20 PM"
+        },
+        {
+          "title": "Buying new phone",
+          "time": "9:04:29 PM"
+        }
+      ]
+    },
+    {
+      "id": "f4407269-d87e-474a-9fdc-47722b25e6d4",
+      "name": "Viraj Dayle",
+      "todo": []
+    }
+  ]
+}
